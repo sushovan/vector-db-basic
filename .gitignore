@@ -1,6 +1,9 @@
 ehthumbs.db
 # This is a .gitignore file for a Python project using Docker
 
+# Project files
+*.index
+
 # OS-specific files
 .DS_Store
 Thumbs.db
